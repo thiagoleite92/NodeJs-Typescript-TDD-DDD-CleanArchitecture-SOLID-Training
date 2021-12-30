@@ -2,4 +2,4 @@ node_modules
 dist
 coverage
 .vscode
-/home/thiago/documents/clean-node-api/globalConfig.json
+globalConfig.json
